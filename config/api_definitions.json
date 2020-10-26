@@ -1,0 +1,9 @@
+[
+    {
+        "api_name": "sentiment-analysis",
+        "api_scheme": "http",
+        "api_host": "localhost",
+        "api_port": "65281",
+        "api_path": "sentiment_analysis"
+    }
+]

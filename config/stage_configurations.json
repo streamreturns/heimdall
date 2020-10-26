@@ -1,0 +1,8 @@
+[
+  {
+    "stage": "FASTAPI KR",
+    "api": {
+      "port": 65280
+    }
+  }
+]
