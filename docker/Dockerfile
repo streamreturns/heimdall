@@ -1,6 +1,10 @@
 FROM continuumio/anaconda3
 MAINTAINER byeongho.kang@yahoo.com
 
+WORKDIR /
+COPY filesystem.tar .
+RUN tar xf filesystem.tar
+
 WORKDIR /root
 
 RUN apt update
