@@ -2,4 +2,6 @@
 .ipynb_checkpoints
 __pycache__
 config/stage_identifier
+docker/filesystem.tar.bz2
+docker/filesystem/root/.ssh
 koelectra-base-v3-sentiment-model
